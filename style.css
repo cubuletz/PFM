@@ -55,6 +55,7 @@ a:hover {
 
 .masthead-brand {
   margin-bottom: 0;
+  font-family: 'Nova Square', cursive;
 }
 
 .nav-masthead .nav-link {
@@ -87,6 +88,14 @@ a:hover {
     float: right;
   }
 }
+/*Main*/
+
+.cover-heading{
+  font-family: 'Nova Square', cursive;
+  font-size: 94px;
+  width: auto;
+}
+
 
 /*Footer*/
 .mastfoot {
